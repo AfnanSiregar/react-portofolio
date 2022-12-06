@@ -11,9 +11,9 @@ export default [
     },
     {
         title: 'Frontend Developer',
-        icon: <FaHandHoldingHeart className='w-full h-full'/>,
-        description: 'ReactJS, Tailwind CSS (CSS Framework)',
-       
+        icon: <FaHandHoldingHeart className='w-full h-full' />,
+        description: 'React.js, Vue.js, Tailwind',
+
     },
     {
         title: 'Backend Developer',
