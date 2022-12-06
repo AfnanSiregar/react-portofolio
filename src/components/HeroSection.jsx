@@ -3,7 +3,7 @@ import React from 'react'
 function HeroSection() {
   return (
     <>
-      <section id='hero' className='py-48'>
+      <section id='hero' className='py-60'>
         <div className='flex items-center justify-center flex-col py-20'>
           <div className='text-center'>
             <h1 className='text-2xl md:text-4xl mb-1 md:mb-3 text-indigo-600 fonts-semibold dark:text-indigo-500'>Hi, I'm Afnan. <br></br> A Programmer.</h1>
