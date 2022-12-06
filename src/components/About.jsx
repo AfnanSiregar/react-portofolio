@@ -10,12 +10,11 @@ function About() {
           <p className='text-md text-gray-600 dark:text-gray-300'>
             My full name is Muzayyin Al-Afnan Siregar, you can call me Afnan or Muzayyin,
             i was born in Sipirok, South Tapanuli, North Sumatera.
-            Now I live in Bandung City, studying at the PASIM University
+            Now I live in South Jakarta City, working at PT. Indonesia Comnets Plus
           </p>
           <br />
           <p className='text-md text-gray-600 dark:text-gray-300'>
-            I have spent the last 2+ years studying in lectures and trainings; I have knowledge including: HTML, CSS, Javascript, PHP, Laravel, ReactJS, MySQL, etc.
-            <br /> Currently, I am actively looking for a job and would like to gain work experience.
+            I have spent the last 2+ years studying in lectures and trainings; I have knowledge including: HTML, CSS, Javascript, PHP, Laravel, React.js, Vue.js, MySQL, etc.
             Feel free to contact me via email at:
           </p>
           <a href="mailto:francafnan@gmail.com" className='block mt-3 text-md text-right md:text-lg  text-gray-700 dark:text-gray-300 underline hover:text-indigo-800 dark:hover:text-indigo-500'

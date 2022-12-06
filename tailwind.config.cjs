@@ -7,6 +7,9 @@ module.exports = {
       fontFamily: {
         inter: ["inter", "serif"],
       },
+      backgroundImage:{
+        'hero': "url('./0d0eee7.png')"
+      },
       keyframes:{
         wave:{
           '1%': { transform: 'rotate(-11deg)'},
